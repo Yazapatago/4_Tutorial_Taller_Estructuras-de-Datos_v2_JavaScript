@@ -847,6 +847,7 @@ const habilidadesData = new Set(["Python", "SQL", "Pandas", "JavaScript"]);
 
 **¡Los `Set` son ideales cuando necesitas unicidad y operaciones rápidas!**  
 Úsalos para: eliminar duplicados, verificar pertenencia, comparar colecciones.
-```
 
 ¡Muy bien! Has cubierto las estructuras de datos fundamentales en JavaScript. Las arrays, objetos y sets son herramientas que usarás constantemente.
+
+```
